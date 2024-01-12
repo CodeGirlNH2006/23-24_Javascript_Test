@@ -1,6 +1,6 @@
 /* Put code for the task below */
-// Create a function when button is clicked, a new page opens
-function openNewPage(){
 
+function openNewPage(){
+    // window.open opens a new page
     window.open("newPage.html");
 }
