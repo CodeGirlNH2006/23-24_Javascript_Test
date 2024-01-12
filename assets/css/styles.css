@@ -136,7 +136,7 @@ Nav
 	padding: .7em 1.25em;
 	color: #fff;
 	text-decoration: none;
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid grey;
 }
 
 .nav a:link { color: white; }
